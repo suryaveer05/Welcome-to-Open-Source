@@ -5483,6 +5483,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/suryaveer05">
+                    <img src="https://avatars.githubusercontent.com/u/225665481?v=4" width="100px;"
+                        alt="Suryaveer Singh Chauhan" />
+                    <br />
+                    <sub>
+                        <b>Suryaveer Singh Chauhan</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/SyedShuaibAejaz">
                     <img src="https://avatars.githubusercontent.com/u/147976001?v=4" width="100px;"
                         alt="Syed Shuaib" />
